@@ -1,11 +1,16 @@
 _repo: The-Geologic-Story-of-Yellowstone-National-Park-Geological-Survey-Bulletin-1347_60574
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60574-h/images/cover.jpg
 creator:
   author:
     agent_name: Keefer, William R.
     gutenberg_agent_id: '51030'
     url: http://www.gutenberg.org/2009/agents/51030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60574#The-Geologic-Story-of-Yellowstone-National-Park-Geological-Survey-Bulletin-1347
 gutenberg_issued: '2019-10-25'
 gutenberg_type: Text
 identifiers:
